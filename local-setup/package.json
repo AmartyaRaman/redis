@@ -1,0 +1,17 @@
+{
+  "name": "local-setup",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "dev": "node src/index.js"
+  },
+  "author": "Amartya",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "express": "^5.2.1",
+    "ioredis": "^5.10.1",
+    "mongoose": "^9.6.2"
+  }
+}
