@@ -27,7 +27,7 @@ This will start Redis on port `6379` and MongoDB on port `27017` in the backgrou
 Navigate to the `local-setup` directory and start the dev server:
 
 ```bash
-cd local-setup
+cd dir_name
 npm install
 npm run dev
 ```
